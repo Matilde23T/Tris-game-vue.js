@@ -11,6 +11,10 @@ The project was created for Star2Impact's "Vue.js" course
 - Vue.js
 - Bootstrapp
 
+## Try it!
+
+You can play the tic-tac-toe game by clicking this link [Tris Game](https://trisgame-vuejs.netlify.app/)
+
 ## Contact Me
 
 For any questions you can write to this email: [matilde.webdev@gmail.com](matilde.webdev@gmail.com)
